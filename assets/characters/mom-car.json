@@ -60,7 +60,7 @@
 	"image": "characters/momCar",
 	"position": [
 		0,
-		-120
+		-90
 	],
 	"healthicon": "monster",
 	"flip_x": false,
@@ -71,7 +71,7 @@
 	],
 	"camera_position": [
 		-700,
-		50
+		30
 	],
 	"sing_duration": 10,
 	"scale": 1.2
