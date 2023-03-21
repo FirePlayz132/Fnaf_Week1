@@ -3,60 +3,60 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				360,
+				90
 			],
-			"anim": "idle",
 			"fps": 24,
-			"name": "Mom Idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				250,
-				-23
-			],
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Mom Left Pose",
-			"indices": []
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				10,
-				-60
+				360,
+				90
 			],
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Mom Pose Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				20,
-				-160
-			],
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "MOM DOWN POSE",
-			"indices": []
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				14,
-				71
+				360,
+				90
 			],
-			"anim": "singUP",
 			"fps": 24,
-			"name": "Mom Up Pose",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				90
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				90
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Mom_Assets",
 	"position": [
 		0,
@@ -65,14 +65,14 @@
 	"healthicon": "mom",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		109,
+		60,
+		14
 	],
 	"camera_position": [
-		0,
-		0
+		-650,
+		-300
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"sing_duration": 10,
+	"scale": 1.4
 }
